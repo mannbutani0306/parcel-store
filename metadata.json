@@ -1,0 +1,6 @@
+{
+  "name": "PARCEL",
+  "description": "Tactile postal-and-paper goods storefront with rubber stamps, shipping tags, and kraft textures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
